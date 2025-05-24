@@ -43,7 +43,6 @@ open LiveObjectDetection.xcodeproj
 
 - ARKit and Vision require camera and neural engine – simulator will not work.
 
----
 
 ## 📷 Sample Output
 
@@ -54,7 +53,3 @@ open LiveObjectDetection.xcodeproj
 - Add sound feedback
 - Save detection history
 - Toggle between object models
-
-## 📄 License
-
-MIT License
